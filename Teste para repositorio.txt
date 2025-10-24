@@ -1,0 +1,22 @@
+----------------------------------------
+Arquivo de Teste – Repositório de Artefatos
+Disciplina: Projeto de Software Avançado
+Aluno: Paulo Henrique Martins Ribeiro
+Data: [inserir data]
+----------------------------------------
+
+Descrição do arquivo:
+Este é um arquivo de teste criado para iniciar o repositório de artefatos do projeto.
+Ele serve para validar a funcionalidade de inserção, controle de versões e
+armazenamento seguro em uma ferramenta de gestão de configuração.
+
+Informações do Projeto:
+- Nome do repositório: Projeto_Software_U4
+- Tipo de artefato: Documento de teste (TXT)
+- Objetivo: Testar inserção e versionamento de arquivos no repositório
+
+Observações:
+- Arquivo criado para fins de aprendizado e prática de gestão de configuração
+- Pode ser atualizado posteriormente com novas informações do projeto
+
+----------------------------------------
